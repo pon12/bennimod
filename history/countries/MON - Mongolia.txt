@@ -1,0 +1,35 @@
+﻿capital = 330
+
+oob = "MON_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+set_research_slots = 0
+add_ideas = {
+	limited_conscription
+	ai
+}
+
+recruit_character = MON_anandyn_amar
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	communism = 100
+}
+
+1939.1.1 = {
+	add_ideas = {
+		limited_conscription
+	}
+
+	recruit_character = MON_khorloogiin_choibalsan
+	promote_character = MON_khorloogiin_choibalsan
+	retire_character = MON_anandyn_amar
+}

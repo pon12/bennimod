@@ -1,0 +1,9 @@
+﻿l_english:
+ attache_category:0 "Send Attaché"
+ attache_japan_decision:0 "Send Attaché to Japan"
+ attache_china_decision:0 "Send Attaché to China"
+ attache_japan_decision_desc:0 "Sending an attaché will result in higher military cooperation and give us benefits in developing our strength."
+ attache_china_decision_desc:0 "Sending an attaché will result in higher military cooperation and give us benefits in developing our strength."
+ decision_cost_CP_50_PP_100:0 "£command_power  §Y50§! £pol_power  §Y100§!"
+ decision_cost_CP_50_PP_100_blocked:0 "£command_power  §R50§! £pol_power  §R100§!"
+ decision_cost_CP_50_PP_100_tooltip:0 "It costs £command_power  §Y50§! £pol_power  §Y100§! to take the decision"

@@ -1,0 +1,12 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_no_asia_bookmark"
+		texturefile = "gfx/interface/no_asia.dds"
+	}
+	spriteType = {
+		name = "GFX_mod_1"
+		texturefile = "gfx/event_pictures/mod_1.dds"
+	}
+
+}

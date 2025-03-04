@@ -1,0 +1,37 @@
+add_namespace = mod
+
+# No Asia
+
+
+news_event = {
+	id = mod.1
+	title = "Marco Polo Bridge incident"
+	desc = "I cannot believe they would do this. What do we do now? We can send an attache and admit that we are gay or we could sit this one out"
+	picture = GFX_mod_1
+	is_triggered_only = yes
+	major = yes
+			
+
+
+
+	option = {
+	name = "We cannot afford to be gay right now"
+	add_political_power = +1
+	}
+	
+	option = {
+		name = "Send an attache (gay)"
+		add_political_power = -100
+		add_war_support = 0.1
+		army_experience = 100
+	}
+
+	mean_time_to_happen = {
+    days = 1
+	
+
+
+		}
+	
+	}
+

@@ -1,0 +1,16 @@
+ideas = {
+	country = {
+					ai = {
+            allowed = { always = yes }
+            removal_cost = -1
+            picture = generic_goods_red_bonus
+            modifier = {
+				consumer_goods_factor = 5
+				industrial_capacity_factory = -2
+				industrial_capacity_dockyard = -2
+				production_factory_max_efficiency_factor = -0.4
+				political_power_factor = -1.2
+            }
+		}
+		}
+}
