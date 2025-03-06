@@ -10,10 +10,6 @@ state={
 	}
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = JAP
 		buildings = {
 			infrastructure = 2
@@ -24,6 +20,7 @@ state={
 			4052 1
 		}	
 
+		add_core_of = KOR
 	}
 
 	provinces={

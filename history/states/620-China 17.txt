@@ -3,12 +3,10 @@ state = {
 	name = "STATE_620"
 
 	history = {
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 
 		owner = CHI
+		add_core_of = CHI
+		add_core_of = CHI
 
 		buildings = {
 			infrastructure = 3

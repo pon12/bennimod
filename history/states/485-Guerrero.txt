@@ -12,10 +12,6 @@ state={
 
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = MEX
 		buildings = {
 			infrastructure = 2

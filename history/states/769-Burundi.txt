@@ -9,6 +9,18 @@ state = {
 
 		owner = BEL
 
+		IF = {
+			limit = {
+				has_dlc = "Gotterdammerung"
+			}
+			transfer_state_to = BEL
+			add_dynamic_modifier = {
+				modifier = COG_burundian_separatism_modifier
+			}	
+		}
+		
+		add_core_of = BRD
+
 		victory_points = {
 			2220 1
 		}

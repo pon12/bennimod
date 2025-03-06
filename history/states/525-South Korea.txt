@@ -7,10 +7,6 @@ state=
 	state_category = town
 	history=
 	{
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = JAP
 		buildings = {
 			infrastructure = 2
@@ -26,6 +22,8 @@ state=
 		victory_points = {
 			7125 3 
 		}
+
+		add_core_of = KOR
 
 	}
 	provinces={

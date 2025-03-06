@@ -1,0 +1,38 @@
+ideas = {
+	country = {
+	
+		
+		
+		neutral_nation = {
+			picture = hol_aloof_neutrality
+			
+			allowed = {
+			    always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 3
+				ai_focus_peaceful_factor = 500
+			    join_faction_tension = 999
+				recruitable_population = -1
+				recruitable_population_factor = -1
+				justify_war_goal_time = 10000
+				enemy_justify_war_goal_time = 10000
+				conscription = -1
+				conscription_factor = -1
+				guarantee_cost = 10000
+				drift_defence_factor = 999
+				ai_get_ally_desire_factor = -1000
+				
+			}
+		}
+		
+		
+	}
+}

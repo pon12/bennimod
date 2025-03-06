@@ -11,13 +11,10 @@ state = {
 	}
 
 	history = {
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 
 		owner = MEX
 		add_core_of = MEX
+		add_core_of = RIG
 
 		buildings = {
 			infrastructure = 2

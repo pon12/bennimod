@@ -3,12 +3,11 @@ state = {
 	name = "STATE_604"
 
 	history = {
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 
 		owner = CHI
+		add_core_of = CHI
+		add_core_of = CHI
+		add_core_of = CHI
 
 		#victory_points = {
 		#	7940 10 # Goldmud was not ofunded until in the late fifties

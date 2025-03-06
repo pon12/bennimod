@@ -10,10 +10,6 @@ state={
 
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = NZL
 		buildings = {
 			infrastructure = 3 #was: 5

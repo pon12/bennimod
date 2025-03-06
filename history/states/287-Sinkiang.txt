@@ -3,11 +3,10 @@ state={
 	name="STATE_287"
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = CHI
+		add_core_of = NIX
+		add_core_of = CHI
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 1
 
@@ -21,7 +20,7 @@ state={
 	provinces={
 		4973 8042 8086 10885 10911 12864 
 	}
-	manpower=408000
+	manpower = 0
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 

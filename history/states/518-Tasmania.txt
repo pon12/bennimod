@@ -6,10 +6,6 @@ state = {
 	state_category = small_island
 
 	history = {
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 
 		owner = AST
 		add_core_of = AST
@@ -24,10 +20,9 @@ state = {
 
 			5187 = {
 				naval_base = 2
+				# The Great Lake Scheme
+				dam = 1
 			}
-
-			# The Great Lake Scheme
-			5187 = { dam = 1 }
 
 		}
 		

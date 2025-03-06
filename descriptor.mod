@@ -1,11 +1,9 @@
-version="1.0"
+version="0.1"
 tags={
-	"Historical"
-	"National Focuses"
+	"Gameplay"
+	"Utilities"
+	"Graphics"
 	"Balance"
-	"Fixes"
 }
-name="Benni Mod"
-replace_path="gfx/loadingscreens"
+name="Trade Manager"
 supported_version="1.15.4"
-remote_file_id="3348878640"

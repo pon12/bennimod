@@ -6,11 +6,10 @@ state={
 	}
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = CHI
+		add_core_of = CHI
+		add_core_of = NIX
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 1
 

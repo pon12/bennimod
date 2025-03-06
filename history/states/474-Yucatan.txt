@@ -6,13 +6,10 @@ state = {
 	state_category = rural
 
 	history = {
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 
 		owner = MEX
 		add_core_of = MEX
+		add_core_of = YUC
 
 		buildings = {
 			infrastructure = 2

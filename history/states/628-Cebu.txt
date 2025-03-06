@@ -8,10 +8,6 @@ state=
 	
 	history=
 	{
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = PHI
 		buildings = {
 			infrastructure = 2
@@ -23,6 +19,7 @@ state=
 		victory_points = {
 			12118 1 
 		}
+		add_core_of = PHI
 	}
 
 	provinces={

@@ -10,11 +10,10 @@ state={
 	}
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = CHI
+		add_core_of = CHI
+		add_core_of = CHI
+		add_core_of = CHI
 		
 		buildings = {
 			infrastructure = 2
@@ -37,7 +36,7 @@ state={
 				limit = {
 					NOT = { has_dlc = "Waking the Tiger" }
 				}
-				remove_core_of = GXC
+				remove_core_of = CHI
 				CHI = { transfer_state = PREV }
 			}
 			JAP = {

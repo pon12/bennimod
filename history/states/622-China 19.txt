@@ -7,11 +7,10 @@ state={
 	}
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = CHI
+		add_core_of = CHI
+		add_core_of = CHI
+		add_core_of = CHI
 		victory_points = {
 			8049 3 
 		}

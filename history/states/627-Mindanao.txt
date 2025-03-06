@@ -7,10 +7,6 @@ state={
 	state_category = rural
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = PHI
 		buildings = {
 			infrastructure = 2
@@ -21,6 +17,7 @@ state={
 		victory_points = {
 			4241 3 
 		}
+		add_core_of = PHI
 	}
 
 	provinces={

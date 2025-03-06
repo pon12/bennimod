@@ -1,13 +1,10 @@
-
 state={
 	id=344
 	name="STATE_344"
-	manpower = 1
-	
+manpower = 0
 	state_category = town
-
 	history={
-		owner = TUR
+		owner = NIX
 		victory_points = {
 			9893 15
 		}
@@ -27,13 +24,11 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = TUR
+		add_core_of = NIX
+		add_claim_by = NIX
 	}
-
 	provinces={
 		806 3889 6813 7620 9893 9912 11746 
 	}
-
-
 	local_supplies=0.0 
 }

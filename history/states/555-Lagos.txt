@@ -7,10 +7,6 @@ state={
 	state_category = tiny_island
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = JAP
 		#add_core_of = JAP
 		#add_claim_by = SOV # Removed because of too much aggression

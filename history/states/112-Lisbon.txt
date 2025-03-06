@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = POR
+		owner = NIX
 		victory_points = {
 			11805 20 
 		}
@@ -23,14 +23,14 @@ state={
 				naval_base = 8
 			}
 		}
-		add_core_of = POR
+		add_core_of = NIX
 
 	}
 
 	provinces={
 		799 3798 3861 6924 11805 
 	}
-	manpower=1995800
+	manpower = 0
 	buildings_max_level_factor=1.000
 	state_category=city
 

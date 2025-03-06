@@ -5,12 +5,10 @@ state={
 	state_category = pastoral
 
 	history={
-				1936.1.2 = {
-			owner = w
-			controller = w
-		}
 		owner = MAN
+		add_core_of = CHI
 		add_core_of = MAN
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
 
