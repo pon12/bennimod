@@ -9,8 +9,6 @@ manpower = 0
 	history = {
 		owner = NIX
 		add_core_of = NIX
-		add_claim_by = NIX
-		add_core_of = WLA
 		buildings = {}
 		victory_points = {
 			13300 1 
