@@ -6,12 +6,7 @@ state={
 
 	history={
 		owner = NIX
-		buildings = {
-			infrastructure = 1
-			13015 ={
-				naval_base = 1
-			}
-		}
+		buildings = {}
 	}
 
 	provinces={

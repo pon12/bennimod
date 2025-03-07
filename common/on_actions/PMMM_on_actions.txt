@@ -5,23 +5,23 @@ effect = {
 	# 	limit = { is_owned_by = NIX }
 	# 	set_manpower = 0
 	# }
-	NIX = {
-		every_owned_state = {
-		remove_building = {
-			type = arms_factory
-			level = 10
-		}
-		remove_building = {
-			type = industrial_complex
-			level = 10
-		}
-		remove_building = {
-			type = dockyard
-			level = 10
-		}
+# 	NIX = {
+# 		every_owned_state = {
+# 		remove_building = {
+# 			type = arms_factory
+# 			level = 10
+# 		}
+# 		remove_building = {
+# 			type = industrial_complex
+# 			level = 10
+# 		}
+# 		remove_building = {
+# 			type = dockyard
+# 			level = 10
+# 		}
 		
-	}
-}
+# 	}
+# }
 
 
 			

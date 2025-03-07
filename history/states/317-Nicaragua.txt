@@ -9,17 +9,7 @@ state={
 
 	history={
 		owner = NIX
-		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 2
-			air_base = 1
-			12738 = {
-				naval_base = 1
-
-			}
-
-		}
+		buildings = {}
 		add_core_of = NIX
 		victory_points = {
 			12738 3

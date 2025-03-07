@@ -11,10 +11,7 @@ state={
 		victory_points = {
 			11810 5 
 		}
-		buildings = {
-			infrastructure = 2
-
-		}
+		buildings = {}
 		add_core_of = NIX
 
 	}

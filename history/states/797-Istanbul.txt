@@ -15,23 +15,7 @@ manpower = 0
 		victory_points = {
 			9833 25
 		}
-		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 2
-			arms_factory = 2
-			air_base = 4
-			9833 = {
-				naval_base = 8
-			}
-			9833 = {
-                landmark_hagia_sophia = {
-                    level = 1
-                    allowed = {
-                        has_dlc = "Graveyard of Empires"
-                    }
-                }
-			}
-		}
+		buildings = {}
 		add_core_of = NIX
 		if = {
 			limit = { has_dlc = "Battle for the Bosporus"}

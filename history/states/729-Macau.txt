@@ -10,12 +10,7 @@ manpower = 0
 		victory_points = {
 			4189 1 
 		}
-		buildings = {
-			infrastructure = 2
-			4189 = {
-				naval_base = 1
-			}
-		}
+		buildings = {}
 	}
 	provinces={
 		4189 

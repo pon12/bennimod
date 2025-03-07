@@ -7,9 +7,7 @@ state={
 
 	history={
 		owner = NIX
-		buildings = {
-			infrastructure = 1
-		}
+		buildings = {}
 		victory_points = {
 			7843 1 #Ulaangom
 		}

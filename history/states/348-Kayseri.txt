@@ -9,9 +9,7 @@ manpower = 0
 		victory_points = {
 			3870 5 
 		}
-		buildings = {
-			infrastructure = 2
-		}
+		buildings = {}
 		add_core_of = NIX
 	}
 	provinces={

@@ -8,9 +8,7 @@ manpower = 0
 		victory_points = {
 			12758 2 
 		}
-		buildings = {
-			infrastructure = 2
-		}
+		buildings = {}
 	}
 	provinces = {
 		2033 4981 5099 7934 10748 10835 12758 

@@ -9,9 +9,7 @@ state={
 	state_category = pastoral
 	history={
 		owner = NIX
-		buildings = {
-			infrastructure = 1
-		}
+		buildings = {}
 		add_core_of = NIX
 
 	}

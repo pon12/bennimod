@@ -12,9 +12,7 @@ manpower = 0
 		add_core_of = NIX
 		add_claim_by = NIX
 		add_claim_by = NIX
-		buildings = {
-			infrastructure = 1
-		}
+		buildings = {}
 		victory_points = {
 			12922 1 
 		}
