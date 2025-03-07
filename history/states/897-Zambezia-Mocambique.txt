@@ -5,13 +5,8 @@ manpower = 0
 	state_category = pastoral 
 	history={
 		owner = NIX
-		buildings = {
-			infrastructure = 2
-			2123 = {
-				naval_base = 1
-			}
+		buildings = {}
 		}
-		add_core_of = MZB
 	}
 	provinces={
 		2123 2159 2180 2202 2217 5164 10972 12971 

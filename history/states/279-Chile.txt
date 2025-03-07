@@ -11,16 +11,7 @@ manpower = 0
 	history = {
 		owner = NIX
 		add_core_of = NIX
-		buildings = {
-			infrastructure = 3 #was: 5
-			arms_factory = 1
-			industrial_complex = 3 # was 5
-			dockyard = 2
-			air_base = 3
-			8222 = {
-				naval_base = 5
-				coastal_bunker = 2
-			}
+		buildings = {}
 			650 = {
 				bunker = 3
 			}

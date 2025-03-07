@@ -4,17 +4,11 @@ state={
 manpower = 0
 	history={
 		owner = NIX
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			8245 = {
-				naval_base = 1
-			}
+		buildings = {}
 		}
 		victory_points = {
 			8245 1 
 		}
-		add_core_of = MZB
 	}
 	provinces={
 		2193 5177 5212 8245 

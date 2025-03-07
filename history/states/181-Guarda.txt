@@ -15,11 +15,7 @@ manpower = 0
 		victory_points = {
 			6996 1 # Guarda
 		}
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 2
-			# Cabril Dam
-			#11885 = { dam = 1 }
+		buildings = {}
 		}
 	}
 	provinces = {

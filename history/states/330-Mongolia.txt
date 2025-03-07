@@ -15,13 +15,7 @@ state={
 		victory_points = {
 			7799 1 
 		}
-		buildings = {
-			infrastructure = 1
-			arms_factory = 1
-			industrial_complex = 3
-			air_base = 1
-
-		}
+		buildings = {}
 		add_core_of = NIX
 
 	}

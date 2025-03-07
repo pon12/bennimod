@@ -9,7 +9,6 @@ manpower = 0
 	}
 	history={
 		owner = CHI
-		add_core_of = NIX
 		add_core_of = CHI
 		add_core_of = CHI
 		buildings = {

@@ -5,13 +5,10 @@ manpower = 0
 	state_category = pastoral
 	history={
 		owner = NIX
-		buildings = {
-			infrastructure = 1
-		}
+		buildings = {}
 		victory_points = {
 			10966 1 
 		}
-		add_core_of = ANG
 	}
 	provinces={
 		8138 8202 10966 12391 12958 12985 

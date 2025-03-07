@@ -17,15 +17,9 @@ manpower = 0
 		victory_points = {
 			11746 5 
 		}
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			11746 = {
-				naval_base = 3
-			}
+		buildings = {}
 		}
 		add_core_of = NIX
-		add_claim_by = NIX
 	}
 	provinces={
 		806 3889 6813 7620 9893 9912 11746 

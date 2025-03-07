@@ -14,8 +14,6 @@ state={
 			}
 
 		}
-		add_core_of = NIX
-		add_claim_by = SOM
 	}
 
 	provinces={
