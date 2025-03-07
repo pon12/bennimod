@@ -5,7 +5,11 @@ manpower = 0
 	state_category = pastoral
 	history={
 		owner = NIX
-		buildings = {}
+		buildings = {
+			infrastructure = 2
+			12190 ={
+				naval_base = 1
+			}
 		}
 	}
 	provinces={

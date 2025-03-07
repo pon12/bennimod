@@ -8,10 +8,15 @@ manpower = 0
 	}
 	history={
 		owner = NIX
+		add_core_of = GNB
 		victory_points = {
 			12891 1
 		}
-		buildings = {}
+		buildings = {
+			infrastructure = 1
+			12891 ={
+				naval_base = 1
+			}
 		}
 	}
 	provinces={

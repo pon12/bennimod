@@ -17,7 +17,10 @@ state={
 		victory_points = {
 			9868 1
 		}
-		buildings = {}
+		buildings = {
+			infrastructure = 1
+
+		}
 		if = {
 			limit = {
 				has_dlc = "Battle for the Bosporus"

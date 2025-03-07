@@ -5,7 +5,10 @@ manpower = 0
 	state_category = rural
 	history={
 		owner = NIX
-		buildings = {}
+		buildings = {
+			infrastructure = 2
+			air_base = 5
+		}
 		victory_points = {
 			9861 5
 		}

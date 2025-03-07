@@ -5,7 +5,12 @@ manpower = 0
 	state_category = city
 	history={
 		owner = NIX
-		buildings = {}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 2
+		}
 		add_core_of = NIX
 		victory_points = {
 			10747 10

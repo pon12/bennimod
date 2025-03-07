@@ -7,7 +7,9 @@ state={
 
 	history={
 		owner = NIX
-		buildings = {}
+		buildings = {
+			infrastructure = 1
+		}
 		victory_points = {
 			12612 1 #Sainshand
 		}

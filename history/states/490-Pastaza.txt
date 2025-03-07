@@ -5,7 +5,11 @@ manpower = 0
 	state_category = pastoral
 	history = {
 		owner = NIX #Used to be NIX but should become theirs through the Peruvian-Ecuadorian War
-		buildings = {}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
 		victory_points = {
 			13289 2
 		}

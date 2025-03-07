@@ -9,7 +9,12 @@ manpower = 0
 	history = {
 		owner = NIX
 		add_core_of = NIX
-		buildings = {}
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			5215 = {
+				naval_base = 1
+			}
 			5201 = {
 				naval_base = 1
 			}

@@ -6,7 +6,9 @@ state = {
 	}
 	history = {
 		owner = NIX
-		buildings = {}
+		buildings = {
+			infrastructure = 1
+		}
 		victory_points = {
 			7717 2 #Darkhan, was in 1791 before
 		}

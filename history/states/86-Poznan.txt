@@ -9,6 +9,7 @@ state = {
 
 		owner = POL
 		add_core_of = POL
+		add_claim_by = PRE
 
 		victory_points = {
 			6558 10 # Poznan
@@ -33,6 +34,7 @@ state = {
 		}
 		
 		1938.3.12 = {
+			add_claim_by = GER
 		}
 	}
 

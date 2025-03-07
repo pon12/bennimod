@@ -3,11 +3,16 @@ state={
 	name="STATE_796"
 	history={
 		owner = NIX
-		buildings = {}
+		buildings = {
+			infrastructure = 1
+			2115 = {
+				naval_base = 1
+			}
 		}
 		victory_points = {
 			2115 1 
 		}
+		add_core_of = ANG
 	}
 	provinces={
 		2115 
